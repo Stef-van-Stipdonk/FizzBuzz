@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\stefv\\Source\\Repos\\Stef-van-Stipdonk\\FizzBuzz\\FizzBuzz Console\\FizzBuzz Console.csproj": {}
+    "E:\\Files\\Testapp\\Projects\\Fizzbuzz\\FizzBuzz\\FizzBuzz Console\\FizzBuzz Console.csproj": {}
   },
   "projects": {
-    "C:\\Users\\stefv\\Source\\Repos\\Stef-van-Stipdonk\\FizzBuzz\\FizzBuzz Console\\FizzBuzz Console.csproj": {
+    "E:\\Files\\Testapp\\Projects\\Fizzbuzz\\FizzBuzz\\FizzBuzz Console\\FizzBuzz Console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stefv\\Source\\Repos\\Stef-van-Stipdonk\\FizzBuzz\\FizzBuzz Console\\FizzBuzz Console.csproj",
+        "projectUniqueName": "E:\\Files\\Testapp\\Projects\\Fizzbuzz\\FizzBuzz\\FizzBuzz Console\\FizzBuzz Console.csproj",
         "projectName": "FizzBuzz Console",
-        "projectPath": "C:\\Users\\stefv\\Source\\Repos\\Stef-van-Stipdonk\\FizzBuzz\\FizzBuzz Console\\FizzBuzz Console.csproj",
+        "projectPath": "E:\\Files\\Testapp\\Projects\\Fizzbuzz\\FizzBuzz\\FizzBuzz Console\\FizzBuzz Console.csproj",
         "packagesPath": "C:\\Users\\stefv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stefv\\Source\\Repos\\Stef-van-Stipdonk\\FizzBuzz\\FizzBuzz Console\\obj\\",
+        "outputPath": "E:\\Files\\Testapp\\Projects\\Fizzbuzz\\FizzBuzz\\FizzBuzz Console\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -56,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
