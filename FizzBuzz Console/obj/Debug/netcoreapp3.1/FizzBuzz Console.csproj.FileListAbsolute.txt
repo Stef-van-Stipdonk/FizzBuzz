@@ -1,0 +1,13 @@
+C:\Users\stefv\Source\Repos\Stef-van-Stipdonk\FizzBuzz\FizzBuzz Console\bin\Debug\netcoreapp3.1\FizzBuzz Console.exe
+C:\Users\stefv\Source\Repos\Stef-van-Stipdonk\FizzBuzz\FizzBuzz Console\bin\Debug\netcoreapp3.1\FizzBuzz Console.deps.json
+C:\Users\stefv\Source\Repos\Stef-van-Stipdonk\FizzBuzz\FizzBuzz Console\bin\Debug\netcoreapp3.1\FizzBuzz Console.runtimeconfig.json
+C:\Users\stefv\Source\Repos\Stef-van-Stipdonk\FizzBuzz\FizzBuzz Console\bin\Debug\netcoreapp3.1\FizzBuzz Console.runtimeconfig.dev.json
+C:\Users\stefv\Source\Repos\Stef-van-Stipdonk\FizzBuzz\FizzBuzz Console\bin\Debug\netcoreapp3.1\FizzBuzz Console.dll
+C:\Users\stefv\Source\Repos\Stef-van-Stipdonk\FizzBuzz\FizzBuzz Console\bin\Debug\netcoreapp3.1\FizzBuzz Console.pdb
+C:\Users\stefv\Source\Repos\Stef-van-Stipdonk\FizzBuzz\FizzBuzz Console\obj\Debug\netcoreapp3.1\FizzBuzz Console.csprojAssemblyReference.cache
+C:\Users\stefv\Source\Repos\Stef-van-Stipdonk\FizzBuzz\FizzBuzz Console\obj\Debug\netcoreapp3.1\FizzBuzz Console.AssemblyInfoInputs.cache
+C:\Users\stefv\Source\Repos\Stef-van-Stipdonk\FizzBuzz\FizzBuzz Console\obj\Debug\netcoreapp3.1\FizzBuzz Console.AssemblyInfo.cs
+C:\Users\stefv\Source\Repos\Stef-van-Stipdonk\FizzBuzz\FizzBuzz Console\obj\Debug\netcoreapp3.1\FizzBuzz Console.csproj.CoreCompileInputs.cache
+C:\Users\stefv\Source\Repos\Stef-van-Stipdonk\FizzBuzz\FizzBuzz Console\obj\Debug\netcoreapp3.1\FizzBuzz Console.dll
+C:\Users\stefv\Source\Repos\Stef-van-Stipdonk\FizzBuzz\FizzBuzz Console\obj\Debug\netcoreapp3.1\FizzBuzz Console.pdb
+C:\Users\stefv\Source\Repos\Stef-van-Stipdonk\FizzBuzz\FizzBuzz Console\obj\Debug\netcoreapp3.1\FizzBuzz Console.genruntimeconfig.cache
